@@ -6,7 +6,7 @@
 
 #define SCREEN_WIDTH 1280
 #define SCREEN_HEIGHT 960
-#define MAX_ITERATIONS 100
+#define MAX_ITERATIONS 500
 
 int main(int argc, char *argv[])
 {
